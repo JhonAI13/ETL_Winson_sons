@@ -1,0 +1,81 @@
+id_rebocador,nome_rebocador,porto_base,ano_fabricacao
+1,WS-SAN-01,Santos,2010
+2,WS-SUA-02,Suape,2017
+3,WS-RIO-03,Santos,2015
+4,WS-RIO-04,Santos,2018
+5,WS-RIO-05,Rio Grande,2017
+6,WS-RIO-06,Rio Grande,2012
+7,WS-SUA-07,Rio de Janeiro,2011
+8,WS-RIO-08,Rio Grande,2022
+9,WS-RIO-09,Rio Grande,2008
+10,WS-RIO-10,Santos,2009
+11,WS-SAN-11,Suape,2013
+12,WS-SUA-12,Salvador,2011
+13,WS-SUA-13,Santos,2022
+14,WS-SUA-14,Santos,2022
+15,WS-RIO-15,Suape,2010
+16,WS-SAN-16,Rio Grande,2016
+17,WS-SUA-17,Salvador,2008
+18,WS-RIO-18,Rio Grande,2011
+19,WS-SAN-19,Salvador,2012
+20,WS-SAL-20,Suape,2005
+21,WS-RIO-21,Rio Grande,2005
+22,WS-SAN-22,Rio Grande,2010
+23,WS-RIO-23,Rio Grande,2019
+24,WS-SAN-24,Suape,2014
+25,WS-SUA-25,Rio Grande,2008
+26,WS-SAL-26,Santos,2015
+27,WS-SAN-27,Rio de Janeiro,2007
+28,WS-SUA-28,Rio de Janeiro,2017
+29,WS-RIO-29,Suape,2022
+30,WS-SUA-30,Santos,2017
+31,WS-RIO-31,Santos,2005
+32,WS-SUA-32,Rio de Janeiro,2012
+33,WS-SUA-33,Rio Grande,2006
+34,WS-SUA-34,Santos,2005
+35,WS-SUA-35,Rio Grande,2019
+36,WS-RIO-36,Santos,2018
+37,WS-SAL-37,Suape,2017
+38,WS-SUA-38,Salvador,2008
+39,WS-RIO-39,Salvador,2012
+40,WS-SUA-40,Suape,2014
+41,WS-SAL-41,Suape,2017
+42,WS-SUA-42,Salvador,2020
+43,WS-SUA-43,Suape,2023
+44,WS-SUA-44,Rio Grande,2015
+45,WS-RIO-45,Salvador,2021
+46,WS-SUA-46,Rio Grande,2014
+47,WS-SAN-47,Rio de Janeiro,2023
+48,WS-SAN-48,Suape,2010
+49,WS-RIO-49,Rio Grande,2010
+50,WS-SAN-50,Suape,2016
+51,WS-RIO-51,Rio de Janeiro,2021
+52,WS-SAN-52,Suape,2017
+53,WS-RIO-53,Salvador,2020
+54,WS-RIO-54,Rio de Janeiro,2022
+55,WS-RIO-55,Salvador,2017
+56,WS-SUA-56,Suape,2015
+57,WS-SAN-57,Rio Grande,2013
+58,WS-RIO-58,Rio Grande,2018
+59,WS-SUA-59,Rio Grande,2016
+60,WS-SUA-60,Santos,2022
+61,WS-SUA-61,Rio Grande,2018
+62,WS-SUA-62,Rio Grande,2007
+63,WS-RIO-63,Suape,2020
+64,WS-RIO-64,Santos,2021
+65,WS-SUA-65,Rio de Janeiro,2014
+66,WS-SAL-66,Salvador,2009
+67,WS-SAN-67,Salvador,2023
+68,WS-SAL-68,Rio de Janeiro,2015
+69,WS-RIO-69,Rio de Janeiro,2018
+70,WS-SUA-70,Suape,2018
+71,WS-RIO-71,Santos,2018
+72,WS-SAL-72,Salvador,2015
+73,WS-RIO-73,Rio de Janeiro,2006
+74,WS-SUA-74,Rio Grande,2018
+75,WS-RIO-75,Suape,2015
+76,WS-SAL-76,Santos,2014
+77,WS-RIO-77,Rio de Janeiro,2005
+78,WS-SAL-78,Santos,2007
+79,WS-SAN-79,Santos,2019
+80,WS-SAL-80,Salvador,2015
