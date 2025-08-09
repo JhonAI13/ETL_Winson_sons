@@ -123,6 +123,7 @@ plt.xlabel('Classe Prevista', fontsize=14)
 plt.show()
 ```
 </details>
+
 ---
 
 ## 🛠️ Tecnologias e Habilidades Demonstradas
